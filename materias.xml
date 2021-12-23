@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<materias>
+  <titulo>Lista de matérias - ADS</titulo>
+  <materia>
+    <sigla>BD2A3</sigla> 
+    <professor>Marcelo Tavares</professor> 
+    <status>Aprovado</status> 
+  </materia>
+  <materia>
+    <sigla>LP3A4</sigla> 
+    <professor>Leonardo Bertholdo</professor> 
+    <status>Aprovado</status> 
+  </materia>
+  <materia>
+    <sigla>PDWEL</sigla> 
+    <professor>Ugo Henrique</professor> 
+    <status>Prova Final</status> 
+  </materia>
+</materias>
